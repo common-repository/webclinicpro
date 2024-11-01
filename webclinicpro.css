@@ -1,0 +1,12 @@
+#webclinicpro-seal {
+    position: fixed; 
+    bottom: 0; 
+    right: 0; 
+    padding: 10px;
+}
+
+@media screen and (max-width: 960px) {
+    #webclinicpro-seal {
+        display: none;
+    }
+}
